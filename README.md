@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/banner.jpeg" />
+<img src="https://media.licdn.com/dms/image/D5616AQHD-Hqy4ftaWQ/profile-displaybackgroundimage-shrink_350_1400/0/1683876237509?e=1709769600&v=beta&t=h3D5R_xUgyYeq7DxgwseBkti_bVjJJfs4S29SjD_SR0" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
