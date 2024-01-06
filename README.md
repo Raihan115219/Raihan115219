@@ -42,7 +42,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-<img src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://th.bing.com/th/id/R.caea59e51842b774339c30e18ac210a3?rik=xvVRxHuExTwEAg&pid=ImgRaw&r=0)" alt="nextjs" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://th.bing.com/th/id/R.caea59e51842b774339c30e18ac210a3?rik=xvVRxHuExTwEAg&pid=ImgRaw&r=0" alt="nextjs" width="40" height="40"/>
 
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
